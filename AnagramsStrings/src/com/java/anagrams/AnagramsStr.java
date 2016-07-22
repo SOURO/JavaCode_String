@@ -6,6 +6,7 @@ import java.util.Set;
 
 public class AnagramsStr {
 	public static void main(String args[]){
+		
 		String str1 = "Souro";
 		str1=str1.toUpperCase();
 		String str2 = "oruos";
